@@ -1,0 +1,24 @@
+from langchain.document_loaders import PDFLoader
+from langchain.llms import OpenAI
+from langchain.output_parsers import StrOutputParser
+
+# Load the PDF document
+pdf_loader = PDFLoader()
+document = pdf_loader.load('path_to_your_pdf_file.pdf')
+
+# Convert the PDF document to text
+text_content = " ".join([page['content'] for page in document])
+
+# Initialize the LLM with OpenAI
+llm = OpenAI(api_key='your_openai_api_key')
+
+# Ask a question using the LLM
+response = llm.ask(question="Your question here", context=text_content)
+
+# Parse the response to a string
+parsed_response = StrOutputParser().parse(response)
+
+# Print the response
+print(parsed_response)
+
+----

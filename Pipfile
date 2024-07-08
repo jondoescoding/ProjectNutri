@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+chromadb = "*"
+python-dotenv = "*"
+langchain-experimental = "*"
+sentence-transformers = "*"
+langchain-openai = "*"
+pypdf = "*"
+langchainhub = "*"
+pypdfium2 = "*"
+pytesseract = "*"
+pillow = "*"
+openai = "*"
+faiss-cpu = "*"
+tiktoken = "*"
+faker = "*"
+pypdf2 = "*"
+streamlit = "*"
+easyocr = "*"
+numpy = "*"
+xmltodict = "*"
+arxiv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

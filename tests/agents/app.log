@@ -1,0 +1,109 @@
+2024-03-06 14:03:02,222:INFO:Client data inserted successfully with client ID: 7603
+2024-03-06 14:04:33,003:INFO:Client data inserted successfully with client ID: 7662
+2024-03-07 18:13:17,312:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 404 Not Found"
+2024-03-07 18:13:48,151:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 404 Not Found"
+2024-03-07 18:15:18,414:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 404 Not Found"
+2024-03-07 18:20:42,524:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 404 Not Found"
+2024-03-07 18:21:43,985:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 404 Not Found"
+2024-03-07 18:26:05,358:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 18:27:32,418:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 18:39:42,616:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 18:48:52,008:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 18:48:52,014:WARNING:Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2024-03-07 18:48:58,416:INFO:Download complete
+2024-03-07 18:48:58,416:WARNING:Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2024-03-07 18:49:00,068:INFO:Download complete.
+2024-03-07 18:49:26,265:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:00:15,482:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:00:42,132:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:03:47,915:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:04:15,219:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:16:50,571:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:17:16,025:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 500 Internal Server Error"
+2024-03-07 19:17:16,026:INFO:Retrying request to /completions in 0.918853 seconds
+2024-03-07 19:17:17,218:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 500 Internal Server Error"
+2024-03-07 19:17:17,218:INFO:Retrying request to /completions in 1.672462 seconds
+2024-03-07 19:17:20,565:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:24:00,198:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:24:27,013:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:28:51,022:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:34:01,117:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:34:29,714:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:35:24,017:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:35:52,951:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:37:14,488:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 19:37:43,844:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 19:37:43,921:INFO:Biomedical data inserted successfully for client ID: 7662
+2024-03-07 21:39:46,577:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 21:54:50,520:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 22:56:25,075:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 23:00:47,136:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 23:16:38,232:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 23:17:31,116:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 23:25:28,070:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 23:26:17,719:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-07 23:29:14,977:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-07 23:30:05,201:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 11:51:29,188:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 11:52:28,081:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 11:53:47,973:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 11:56:38,698:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 12:06:04,021:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 12:07:00,481:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 12:15:52,019:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:01:15,269:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:01:28,141:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:04:03,250:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:04:11,549:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:08:41,519:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:13:01,634:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:13:31,124:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:13:47,045:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:14:02,544:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:16:33,107:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:16:41,362:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:19:49,693:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:19:56,534:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:19:59,282:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:22:23,057:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:22:35,063:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:22:50,247:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:24:23,593:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:24:50,242:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:25:29,153:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:25:37,352:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:26:05,325:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:27:31,222:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:27:48,159:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:28:04,880:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:29:29,152:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:30:01,201:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:30:53,585:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:31:08,117:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:31:29,524:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:31:38,690:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:32:04,318:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 13:34:10,723:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:12:06,491:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 15:12:37,731:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:13:14,907:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 15:13:46,016:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:18:16,863:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 15:18:48,078:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:18:48,166:INFO:Biomedical data updated successfully for client ID: 7662
+2024-03-08 15:29:48,559:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 15:30:24,029:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:30:24,118:INFO:Biomedical data updated successfully for client ID: 7662
+2024-03-08 15:34:21,715:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 15:34:56,789:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:34:56,797:INFO:Biomedical data updated successfully for client ID: 7662
+2024-03-08 15:35:38,968:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:36:32,788:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-08 15:37:37,126:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:39:05,988:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-08 15:39:57,267:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-12 23:31:11,161:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-03-12 23:31:37,543:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-12 23:31:37,674:INFO:Biomedical data updated successfully for client ID: 7662
+2024-03-12 23:32:33,772:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-03-12 23:33:40,502:INFO:HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
